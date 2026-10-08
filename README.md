@@ -22,8 +22,7 @@ Hoy esa base me ayuda mucho a la hora de construir soluciones de datos robustas 
 
 ### Actualmente estoy interesado en:
 - Generative AI aplicada a negocio  
-- MLOps y modelos en producción  
-- Causal Inference  
+- MLOps y modelos en producción    
 - Cualquier proyecto donde los datos y la creatividad se junten
 
 ---
